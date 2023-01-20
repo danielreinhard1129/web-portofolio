@@ -1,5 +1,5 @@
 import React from 'react';
-import foto from '../Images/foto.png';
+import foto from '../Images/foto.webp';
 
 
 
