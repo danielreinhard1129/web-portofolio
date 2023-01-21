@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from '../Images/logo.png'
 
+
 function Navbar() {
     return (
         <nav class="bg-white border-gray-200 pl-5 pr-2 sm:px-4 py-2.5 rounded fixed w-full top-0 left-0">
@@ -31,29 +32,6 @@ function Navbar() {
                 </div>
             </div>
         </nav>
-
-
-
-
-
-        // <div className=' '>
-        //     <div className="container mt-5 px-2 py-8 bg-blue-500 flex place-items-center justify-between m-auto rounded-full shadow-xl">
-        //         <div className='ml-5 text-white'>
-        //             <a href="">
-        //                 <span className=' font-bold text-2xl'>Daniel</span>
-        //                 <span className='font-bold ml-2 text-2xl'>Reinhard</span>
-        //             </a>
-        //         </div>
-        //         <div>
-        //             <ul className='flex font-medium text-white'>
-        //                 <li><a href="" className='py-2 pl-3 pr-4 font-semibold'>Profile</a></li>
-        //                 <li><a href="" className='py-2 pl-3 pr-4 font-semibold'>Portofolio</a></li>
-        //                 <li><a href="" className='py-2 pl-3 pr-4 font-semibold'>Skills</a></li>
-        //                 <li><a href="" className='py-2 pl-3 pr-4 font-semibold'>Contact</a></li>
-        //             </ul>
-        //         </div>
-        //     </div>
-        // </div >
     );
 }
 
